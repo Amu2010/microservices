@@ -1,0 +1,5 @@
+com\odx\test\TestApplication.class
+com\odx\test\repository\PalindromeRepository.class
+com\odx\test\service\PalindromeService.class
+com\odx\test\entity\Palindrome.class
+com\odx\test\controller\PalindromeController.class
